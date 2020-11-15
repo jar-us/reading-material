@@ -1,1 +1,1 @@
-# reading-material
+## This repo contains useful of blogs and others.
