@@ -1,1 +1,1 @@
-## This repo contains useful of blogs and others.
+## This repo contains useful link of blogs and others.
