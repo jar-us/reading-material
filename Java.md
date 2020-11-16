@@ -1,9 +1,9 @@
-# [Object Oriented Programming Concepts in Java](https://medium.com/swlh/object-oriented-programming-concepts-in-java-f339e56cdf74)
+#### [Object Oriented Programming Concepts in Java](https://medium.com/swlh/object-oriented-programming-concepts-in-java-f339e56cdf74)
 
-# [Spring Boot Apps with Kong API Gateway using OpenAPI & Declarative Configuration](https://blog.codecentric.de/en/2020/11/spring-boot-kong/)
+#### [Spring Boot Apps with Kong API Gateway using OpenAPI & Declarative Configuration](https://blog.codecentric.de/en/2020/11/spring-boot-kong/)
 
-# [Kong](https://github.com/Kong/kong)
+#### [Kong](https://github.com/Kong/kong)
 
-# [Spring projects](https://spring.io/projects/spring-boot)
+#### [Spring projects](https://spring.io/projects/spring-boot)
 
-# [Traefik](https://traefik.io/traefik/)
+#### [Traefik](https://traefik.io/traefik/)
