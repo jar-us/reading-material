@@ -7,3 +7,5 @@
 #### [Spring projects](https://spring.io/projects/spring-boot)
 
 #### [Traefik](https://traefik.io/traefik/)
+
+#### [Software Engineering Institute](https://wiki.sei.cmu.edu/confluence/display/java/SEI+CERT+Oracle+Coding+Standard+for+Java)
