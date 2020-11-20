@@ -11,3 +11,5 @@
 #### [Software Engineering Institute](https://wiki.sei.cmu.edu/confluence/display/java/SEI+CERT+Oracle+Coding+Standard+for+Java)
 
 #### [Java Programming/Keywords](https://en.wikibooks.org/wiki/Category:Book:Java_Programming/Keywords)
+
+#### [What is garbage Collection and Why it is required](https://www.eginnovations.com/blog/what-is-garbage-collection-java/)
